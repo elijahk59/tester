@@ -1,0 +1,19 @@
+body {
+    background-color: chartreuse;
+    background-image: image-set(images/blossoms.jpg);
+
+}
+
+h1 {
+    color: blue;
+
+}
+h2 {
+    color: darkgoldenrod;
+}
+h3 {
+    color: darkkhaki;
+}
+h4 {
+    color: darkorchid;
+}
